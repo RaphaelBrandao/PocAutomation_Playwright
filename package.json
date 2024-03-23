@@ -1,0 +1,13 @@
+{
+  "name": "PocAutomation_Playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RaphaelBrandao/PocAutomation_Playwright.git",
+  "author": "RaphaelBrandao92 <raphael.rodrigues@vittude.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.30"
+  },
+  "scripts": {}
+}
